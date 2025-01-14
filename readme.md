@@ -35,7 +35,6 @@ submission
 ├───data
 | ├───day.csv
 | └───hour.csv
-| └───dan-lainnya.csv
 ├───Bike_Sharing.ipynb
 ├───README.md
 └───requirements.txt
