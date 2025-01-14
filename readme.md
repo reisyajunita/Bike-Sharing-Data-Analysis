@@ -31,6 +31,7 @@ submission
 ├───dashboard
 | ├───day.csv
 | ├───hour.csv
+| ├───logo.png
 | └───dashboard.py
 ├───data
 | ├───day.csv
